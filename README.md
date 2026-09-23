@@ -1,34 +1,76 @@
-# Hi, I'm Chris 👋
+<!-- GitHub profile README for Chuanris -->
 
-**Data Engineering · Data Science · Machine Learning**
+<p align="center">
+  <img width="100%" src="assets/usc-data-science.svg" alt="Chris Huang | USC Applied Data Science | Data Science, Machine Learning, Analytics" />
+</p>
 
-I'm Chu-Huan (Chris) Huang, a USC Applied Data Science graduate with a background in Quantitative Finance from National Tsing Hua University. I enjoy working across the data lifecycle, from building reliable pipelines to training models and explaining results.
+<p align="center">
+  <b>From asking better questions to building better models.</b><br />
+  USC M.S. Applied Data Science · NTHU Quantitative Finance
+</p>
 
-* 🎓 M.S. in Applied Data Science, University of Southern California
-* 🔬 Previously a Research Assistant at USC, working on LLM evaluation and retrieval quality
-* ⚾ Currently building an MLB pitch analytics pipeline with DuckDB, dbt, and data quality monitoring
-* 📍 Based in Los Angeles and open to data engineering, data science, and analytics opportunities
+<p align="center">
+  <a href="https://www.linkedin.com/in/chu-huan-huang-824a6422b">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="mailto:hwer785@gmail.com">Email</a> &nbsp; / &nbsp;
+  <a href="https://github.com/Chuanris?tab=repositories">Explore my work</a>
+</p>
 
-## Selected Projects
+## `01` / Behind the models
 
-| Project                       | What I built                                                                                                          |
-| ----------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| **MLB Pitch Analytics**       | A pipeline that transforms raw pitch data into analytics tables, with data validation and observability               |
-| **Deep RL for Market Making** | MLP and Transformer PPO agents evaluated for trading performance, inventory risk, and robustness in simulated markets |
-| **ChatDB Telegram Bot**       | A natural-language assistant for querying MySQL and MongoDB, with ETL workflows and AWS RDS                           |
-| **Maritime Delay Dashboard**  | Interactive D3.js visualizations for exploring port congestion, shipping routes, and chokepoint delays                |
+Hi, I'm **Chris**. My background combines applied data science and quantitative finance. I enjoy turning open-ended questions into experiments, comparing models carefully, and making results easier to understand.
 
-## Tech Stack
+- 🔬 **Research:** Previously at USC, evaluating language models and retrieval quality for an AI course assistant.
+- 🧠 **Interests:** Predictive modeling, experimentation, NLP, and reinforcement learning.
+- ⚾ **Currently exploring:** Pitch-level baseball data, with an emphasis on trustworthy metrics and reproducible analysis.
+- 🎯 **Looking for:** Data Science, Machine Learning, and Analytics opportunities.
 
-**Languages:** Python, SQL, R
-**Data:** pandas, NumPy, PySpark, DuckDB, dbt, MySQL, MongoDB
-**ML & AI:** scikit-learn, XGBoost, PyTorch, TensorFlow, Hugging Face Transformers
-**Cloud & Tools:** AWS, Git, Tableau, Power BI, D3.js
+## `02` / Selected work
 
-## Outside of Code
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🧠 Reinforcement Learning for Market Making</h3>
+<p>Compared MLP and Transformer PPO agents in simulated markets, evaluating returns, inventory risk, and robustness across market conditions.</p>
+<p><code>Deep Learning</code> <code>PPO</code> <code>Model Evaluation</code></p>
+</td>
+<td width="50%" valign="top">
+<h3>🔬 LLM Evaluation at USC</h3>
+<p>Research on an AI course assistant serving 15K+ weekly queries. Evaluated 10+ language models and analyzed interaction logs to identify retrieval failures.</p>
+<p><code>NLP</code> <code>Experimentation</code> <code>Error Analysis</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>⚾ MLB Pitch Analytics</h3>
+<p>Transforming pitch-level data into analysis-ready tables for exploring pitchers, pitch types, and count strategy, backed by data validation and monitoring.</p>
+<p><code>Python</code> <code>SQL</code> <code>Data Quality</code></p>
+</td>
+<td width="50%" valign="top">
+<h3>🌊 Maritime Delay Explorer</h3>
+<p>Six linked visualizations for exploring delays across 20 ports, 140 directional routes, and 6 global chokepoints.</p>
+<p><code>D3.js</code> <code>Exploratory Analysis</code> <code>Visualization</code></p>
+</td>
+</tr>
+</table>
 
-Basketball, coffee, traveling, and finding new places to eat.
+## `03` / Methods & tools
 
-## Let's Connect
+| Focus | My toolkit |
+| :--- | :--- |
+| **Core analysis** | Python · SQL · R · pandas · NumPy |
+| **Machine learning** | scikit-learn · XGBoost · Random Forest · Feature Engineering · Cross-Validation |
+| **Deep learning & NLP** | PyTorch · TensorFlow · Hugging Face Transformers · Reinforcement Learning |
+| **Statistics & evaluation** | A/B Testing · Hypothesis Testing · Experimental Design · Model Evaluation |
+| **Visualization** | Tableau · Power BI · D3.js · Excel |
+| **Working with data** | DuckDB · dbt · PySpark · MySQL · MongoDB · AWS · Git |
 
-[LinkedIn](https://www.linkedin.com/in/chu-huan-huang-824a6422b) · [Email](mailto:hwer785@gmail.com)
+## `04` / Beyond the notebook
+
+Basketball, coffee, travel, and finding new places to eat.
+
+I'm always happy to talk about interesting datasets, research ideas, or opportunities to build something useful.
+
+**[Let's connect →](mailto:hwer785@gmail.com)**
+
+---
+<p align="center"><sub>USC alum · Los Angeles · Fight On ✌️</sub></p>
